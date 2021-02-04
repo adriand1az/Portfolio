@@ -276,6 +276,12 @@ p {
 .tools-container .row{
   margin: 25px;
 }
+
+.tools-container .row img{
+  height: 128px;
+  width: 128px;
+  margin-right: 50px;
+}
 /* End Services Section */
 
 /* Projects section */
