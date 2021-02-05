@@ -265,7 +265,7 @@ p {
 
 /* End Hero Section */
 
-/* Services Section */
+/* Tools Section */
 .tools-container{
   display: flex;
   flex-direction: column;
@@ -282,7 +282,7 @@ p {
   width: 128px;
   margin: 25px;
 }
-/* End Services Section */
+/* End Tools Section */
 
 /* Projects section */
 #projects .projects {
