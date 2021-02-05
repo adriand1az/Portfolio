@@ -266,11 +266,17 @@ p {
 /* End Hero Section */
 
 /* Tools Section */
+#tools h2{
+  display: flex;
+  justify-content: center;
+
+}
 .tools-container{
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  padding-top: 75px;
 }
 
 .tools-container .row{
@@ -543,10 +549,11 @@ p {
   /* End Hero */
 
   /* Services Section */
-  #tools .service-bottom .service-item {
+  #tools  {
     flex-basis: 45%;
     margin: 2.5%;
   }
+
   /* End Services Section */
 
   /* Project */
